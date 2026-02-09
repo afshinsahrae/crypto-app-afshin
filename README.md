@@ -61,14 +61,15 @@ View all prices in:
 - EUR  
 - JPY  
 
-#### 📌 Coin Detail Page
-Clicking a coin opens a dedicated page showing:
+#### 📌 Coin Details Modal
+Clicking on any coin opens a modal window containing:
 
 - 24‑hour price chart  
 - Market cap  
-- Volume  
+- Trading volume  
 - Price change percentages  
-- Full description (if API provides it)
+- Additional market information  
+- All displayed without leaving the main page
 ---
 
 ### 🚀 Getting Started
